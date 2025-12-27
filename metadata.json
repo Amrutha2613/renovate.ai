@@ -1,0 +1,9 @@
+
+{
+  "name": "Zero-Build AI",
+  "description": "An intelligent Land Planning and Building Design Assistant that transforms manual inputs into 4K conceptual visualizations and planning insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
